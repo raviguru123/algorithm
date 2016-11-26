@@ -3,7 +3,7 @@
 #include <vector>
 #include <limits.h>
 using namespace std;
-
+//http://qa.geeksforgeeks.org/4066/knight-movement-on-the-chess-board
 int min(int a,int b){
 	return a<b?a:b;
 }
